@@ -1,0 +1,8 @@
+prefix=/home/dylan/catkin_ws/devel
+
+Name: common_sensors
+Description: Description of common_sensors
+Version: 0.1.0
+Cflags: -I/home/dylan/catkin_ws/src/common-sensors/common_sensors/include
+Libs: -L${prefix}/lib -lsensor_filters
+Requires: openni_launch xacro laser_filters

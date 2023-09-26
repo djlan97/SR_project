@@ -1,0 +1,16 @@
+float32 x1
+float32 y1
+float32 a1
+int8 c1
+float32 x2
+float32 y2
+float32 a2
+int8 c2
+float32 x3
+float32 y3
+float32 a3
+int8 c3
+float32 x4
+float32 y4
+float32 a4
+int8 c4

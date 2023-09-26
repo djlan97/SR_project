@@ -1,0 +1,8 @@
+prefix=/home/dylan/catkin_ws/devel
+
+Name: ur5_pick_and_place_opencv
+Description: Description of ur5_pick_and_place_opencv
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_core moveit_visual_tools moveit_ros_planning_interface interactive_markers tf2_geometry_msgs actionlib_msgs control_msgs opencv_services
